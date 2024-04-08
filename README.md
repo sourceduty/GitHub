@@ -5,8 +5,6 @@ Sourceduty's GitHub is a treasure trove of diverse projects, ranging from practi
 #
 ### GitHub Usage
 
-![Octocat](https://github.com/sourceduty/GitHub/assets/123030236/8b2c1c2e-9874-4772-b86c-1dc7d40952ce)
-
 Normal Uses of GitHub
 
 ```
