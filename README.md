@@ -48,7 +48,7 @@ Largest Repository on GitHub:
 - One of the largest known repositories on GitHub is the [Windows code base](https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/), which is approximately 300GB in size and consists of about 3.5 million files​.
 
 GitHub User with Most Repositories:
-- Among GitHub users, [Sindre Sorhus](https://github.com/sindresorhus) stands out with 1,063 repositories, alongside a significant number of followers.
+- Among GitHub users, [Sindre Sorhus](https://github.com/sindresorhus) stands out with over 1100 repositories, alongside a significant number of followers.
 
 #
 ### Alex's GitHub Notes
