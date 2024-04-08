@@ -53,11 +53,7 @@ GitHub User with Most Repositories:
 ### Alex's GitHub Notes
 
 - I indicate versions of my code very loosely.
-- I create repositories for source codes and related information.
-- I'm probably the first person to create a repository index.
-- To me, a project is a larger task with more than one script.
 - I use a lot of different words that mean the same thing.
-- I use the same design process in programming as I do in 3D modelling.
 - I prefer to use a repository for these notes instead of gists.
 
 ***
