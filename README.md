@@ -68,7 +68,7 @@ GitHub User with Most Repositories:
 
 - I recently tested creating and modifying GitHub repos with Python and it was a waste of time. 
 - I want GitHub to automatically detect and notify users of spelling mistakes in repos.
-- I want GitHub to automaticall analyze and notify users with suggestions for improvements to repo structure.
+- I want GitHub to automatically analyze and notify users with suggestions for improvements to repo structure.
 - Additional automated repo tools could be added such as a built-in repo template menu.
 - Maybe a related repo finder similar to [Related Information](https://chat.openai.com/g/g-GBDORF9nD-related-information) or related repo notfications.
 
