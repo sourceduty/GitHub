@@ -40,8 +40,6 @@ Alternative Uses of GitHub
 <br>
 </details>
 
-#
-
 <details><summary>GitHub Statistics </summary>
 <br>
 
