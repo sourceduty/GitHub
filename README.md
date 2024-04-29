@@ -5,6 +5,9 @@ Sourceduty's GitHub is a treasure trove of diverse projects, ranging from practi
 #
 ### GitHub Usage
 
+<details><summary>Normal Uses of GitHub</summary>
+<br>
+
 Normal Uses of GitHub
 
 ```
@@ -15,6 +18,11 @@ Normal Uses of GitHub
 5. Documentation: With the support for README files and GitHub Pages, it's a great platform for hosting project documentation and wikis.
 6. Continuous Integration/Continuous Deployment (CI/CD): Integration with tools like GitHub Actions allows for automation of testing, building, and deploying applications.
 ```
+
+<br>
+</details>
+<details><summary>Alternative Uses of GitHub</summary>
+<br>
 
 Alternative Uses of GitHub
 
@@ -29,19 +37,14 @@ Alternative Uses of GitHub
 8. Cookbook or Recipe Sharing: An unconventional use, but some people use GitHub to share and collaborate on cooking recipes, leveraging version control to refine and improve dishes over time.
 ```
 
-#
-### GitHub Limits
-
-Repository Size Limit: 
-- Recommended limit: < 1GB for optimal performance.
-- Exceeding this may result in a request from GitHub to reduce size.
-
-Upload Limits:
-- Browser upload limit: 25 MB per file.
-- Git LFS (Large File Storage) available for larger files.
-- Single push limit: 2 GB.
+<br>
+</details>
 
 #
+
+<details><summary>GitHub Statistics </summary>
+<br>
+
 ### GitHub Statistics 
 
 Largest Repository on GitHub:
@@ -50,12 +53,24 @@ Largest Repository on GitHub:
 GitHub User with Most Repositories:
 - Among GitHub users, [Sindre Sorhus](https://github.com/sindresorhus) stands out with over 1100 repositories, alongside a significant number of followers.
 
+<br>
+</details>
+
 #
-### Alex's GitHub Notes
+### Alex's GitHub Usage Notes
 
 - I indicate versions of my code very loosely.
 - I use a lot of different words that mean the same thing.
 - I prefer to use a repository for these notes instead of gists.
+
+#
+### Alex's GitHub Improvement Ideas
+
+- I recently tested creating and modifying GitHub repos with Python and it was a waste of time. 
+- I want GitHub to automatically detect and notify users of spelling mistakes in repos.
+- I want GitHub to automaticall analyze and notify users with suggestions for improvements to repo structure.
+- Additional automated repo tools could be added such as a built-in repo template menu.
+- Maybe a related repo finder similar to [Related Information](https://chat.openai.com/g/g-GBDORF9nD-related-information) or related repo notfications.
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
