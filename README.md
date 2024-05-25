@@ -70,5 +70,10 @@ GitHub User with Most Repositories:
 - Additional automated repo tools could be added such as a built-in repo template menu.
 - Maybe a related repo finder similar to [Related Information](https://chat.openai.com/g/g-GBDORF9nD-related-information) or related repo notfications.
 
+#
+### Related Links
+
+[GitHub Commit Analyzer](https://github.com/sourceduty/GitHub_Commit_Analyzer)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
