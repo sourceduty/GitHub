@@ -71,6 +71,42 @@ GitHub User with Most Repositories:
 - Maybe a related repo finder similar to [Related Information](https://chat.openai.com/g/g-GBDORF9nD-related-information) or related repo notfications.
 
 #
+### Sourceduty Software Versions
+
+|Sourceduty Software Versioning|
+|-|
+  
+| Version | Number | Symbol Code |
+|---------|--------|-------------|
+| One     | 1.0    | U+0031      | 
+| Two     | 2.0    | U+0032      | 
+| Three   | 3.0    | U+0033      | 
+| Four    | 4.0    | U+0034      | 
+| Five    | 5.0    | U+0035      | 
+| Six     | 6.0    | U+0036      | 
+| Seven   | 7.0    | U+0037      | 
+| Eight   | 8.0    | U+0038      | 
+| Nine    | 9.0    | U+0039      | 
+| Info    | 1.0    | U+2139      |  
+
+| Version | Number |
+|---------|--------|
+| One     | 1.1    |
+| Two     | 1.2    |
+| Three   | 1.3    |
+| Four    | 1.4    |
+| Five    | 1.5    |
+| Six     | 1.6    |
+| Seven   | 1.7    |
+| Eight   | 1.8    |
+| Nine    | 1.9    |
+| Ten     | 1.10   |
+
+Sourceduty's versioning system is designed to provide clarity and transparency in tracking updates and improvements to the software. Each version is assigned a major number, followed by a minor number, which indicates the presence of bug fixes and minor adjustments. For example, the first version of Sourceduty is marked as 1.0, with subsequent updates focusing on enhancing the software's functionality or fixing known issues, leading to increments in the minor number, such as 1.1, 1.2, and so on. This approach ensures that users can easily identify the significance of each update, whether it's a substantial upgrade or a minor tweak.
+
+The inclusion of symbolic codes and emojis alongside the version numbers further enriches the versioning system by offering a quick visual reference for each release. While the major number reflects significant developments or feature additions, the minor number strictly addresses bug fixes and minor refinements, ensuring that each incremental release remains backward-compatible. This structured approach to versioning helps maintain software stability and predictability, allowing users to anticipate the scope of changes with each new version while keeping the software as robust and reliable as possible.
+
+#
 ### Related Links
 
 [GitHub Commit Analyzer](https://github.com/sourceduty/GitHub_Commit_Analyzer)
