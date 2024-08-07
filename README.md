@@ -113,6 +113,29 @@ The inclusion of symbolic codes and emojis alongside the version numbers further
 
 <br>
 </details>
+<details><summary>GitHub Development Rate</summary>
+<br>
+
+The GitHub Development Rate is a metric used to quantify the pace of development activity within a project hosted on GitHub. By measuring the number of commits made over a specific period of time, this rate provides valuable insights into the productivity and momentum of a development team or an individual contributor. Understanding the development rate can help project managers and developers assess progress, identify trends, and make informed decisions to optimize workflows and meet project goals. The calculation of this rate is straightforward, relying on basic arithmetic to offer a clear snapshot of development activity.
+
+#### Mathematical Calculation for GitHub Development Rate
+
+# Step 1: Define Variables
+C = Total number of commits
+T = Total time period (in days, weeks, or months)
+
+# Step 2: Calculate Development Rate (DR)
+DR = C / T
+
+# Example Calculation
+C = 150  # Total commits
+T = 30   # Time period in days
+DR = C / T  # Development Rate (commits per day)
+
+# DR = 150 / 30 = 5 commits/day
+
+<br>
+</details>
 
 #
 
