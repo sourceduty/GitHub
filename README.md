@@ -139,10 +139,13 @@ DR = 150 / 30 = 5 commits/day
 
 #
 
-If there have been 7,723 commits in the last year, you can calculate the GitHub Development Rate as follows:
+If there have been 7,723 commits in the last year, you can calculate the GitHub Development 
+
+Rate as follows:
 
 Total Commits (C): 7,723
 Total Time Period (T): 1 year (365 days)
+
 Using the formula:
 
 DR = C / T
