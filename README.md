@@ -3,7 +3,7 @@
 Sourceduty's GitHub is a treasure trove of diverse projects, ranging from practical applications like "Soil Analyzer" and "Helipad Pi" to innovative software concepts such as "Cursor Taskbar Menu." It also delves into niche areas with projects like "Chemistry Simulator," which bridges computational chemistry with creative design, and "Drugs," aiming to demystify the glamorization of street drugs in media. This array reflects a commitment to blending technology with education and creativity, highlighting Sourceduty's multifaceted approach to digital innovation and community engagement. Through these projects, Sourceduty not only showcases a broad spectrum of digital assets but also emphasizes the importance of responsible and informed technology use.
 
 #
-### GitHub Usage
+### Notes
 
 <details><summary>Normal Uses of GitHub</summary>
 <br>
@@ -53,16 +53,19 @@ GitHub User with Most Repositories:
 
 <br>
 </details>
+<details><summary>Alex's GitHub Usage Notes</summary>
+<br>
 
-#
-### Alex's GitHub Usage Notes
+Alex's GitHub Usage Notes
 
 - I indicate versions of my code very loosely.
 - I use a lot of different words that mean the same thing.
 - I prefer to use a repository for these notes instead of gists.
 
-#
-### Alex's GitHub Improvement Ideas
+<br>
+</details>
+<details><summary>Alex's GitHub Improvement Ideas</summary>
+<br>
 
 - I recently tested creating and modifying GitHub repos with Python and it was a waste of time. 
 - I want GitHub to automatically detect and notify users of spelling mistakes in repos.
@@ -70,8 +73,10 @@ GitHub User with Most Repositories:
 - Additional automated repo tools could be added such as a built-in repo template menu.
 - Maybe a related repo finder similar to [Related Information](https://chat.openai.com/g/g-GBDORF9nD-related-information) or related repo notfications.
 
-#
-### Sourceduty Software Versions
+<br>
+</details>
+<details><summary>Sourceduty Software Versions</summary>
+<br>
 
 |Sourceduty Software Versioning|
 |-|
@@ -106,14 +111,17 @@ Sourceduty's versioning system is designed to provide clarity and transparency i
 
 The inclusion of symbolic codes and emojis alongside the version numbers further enriches the versioning system by offering a quick visual reference for each release. While the major number reflects significant developments or feature additions, the minor number strictly addresses bug fixes and minor refinements, ensuring that each incremental release remains backward-compatible. This structured approach to versioning helps maintain software stability and predictability, allowing users to anticipate the scope of changes with each new version while keeping the software as robust and reliable as possible.
 
-#
-### Related Links
-
-[GitHub Commit Analyzer](https://github.com/sourceduty/GitHub_Commit_Analyzer)
+<br>
+</details>
 
 #
 
 > Alex: *"I want to overtake the GitHub user with most repositories within 2 or 3 years."*
+
+#
+### Related Links
+
+[GitHub Commit Analyzer](https://github.com/sourceduty/GitHub_Commit_Analyzer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
