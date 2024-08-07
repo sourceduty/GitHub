@@ -128,8 +128,11 @@ T = Total time period (in days, weeks, or months)
 DR = C / T
 
 #### Example Calculation
+
 C = 150  # Total commits
+
 T = 30   # Time period in days
+
 DR = C / T  # Development Rate (commits per day)
 
 DR = 150 / 30 = 5 commits/day
