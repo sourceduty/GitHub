@@ -137,6 +137,26 @@ DR = C / T  # Development Rate (commits per day)
 
 DR = 150 / 30 = 5 commits/day
 
+#
+
+If there have been 7,723 commits in the last year, you can calculate the GitHub Development Rate as follows:
+
+Total Commits (C): 7,723
+Total Time Period (T): 1 year (365 days)
+Using the formula:
+
+DR = C / T
+
+Substitute the values:
+
+DR = 7,723 commits / 365 days
+
+Calculate:
+
+DR ≈ 21.16 commits/day
+
+So, the development rate is approximately 21.16 commits per day over the last year.
+
 <br>
 </details>
 
