@@ -42,11 +42,9 @@ Alternative Uses of GitHub
 <details><summary>GitHub's Price Tag</summary>
 <br>
 
+![Microsoft Git](https://github.com/user-attachments/assets/2405cfb3-afcc-4a3a-bab5-b4571be4342b)
+
 GitHub is a subsidiary of Microsoft, which acquired it in 2018 for $7.5 billion in Microsoft stock. Given the strategic importance of GitHub within the tech ecosystem and its integration with Microsoft's broader cloud and developer services, its worth might have increased since the acquisition. However, without public financial data, the exact figure is speculative.
-
-#### What is $7.5 billion USD in CAD?
-
-$7.5 billion USD is approximately $10.125 billion CAD, based on an exchange rate of 1.35 CAD per USD in 2024.
 
 <br>
 </details>
