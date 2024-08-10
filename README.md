@@ -186,10 +186,6 @@ For daily updates, you can schedule this script to run every 24 hours using a cr
 
 #
 
-![GitHub](https://github.com/user-attachments/assets/e94e29af-397a-4616-bfe6-f0db42e38b76)
-
-#
-
 > Alex: *"I want to overtake the GitHub user with most repositories within 2 or 3 years."*
 
 #
