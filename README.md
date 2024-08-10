@@ -174,6 +174,10 @@ So, the development rate is approximately 21.16 commits per day over the last ye
 
 #
 
+![GitHub](https://github.com/user-attachments/assets/e94e29af-397a-4616-bfe6-f0db42e38b76)
+
+#
+
 > Alex: *"I want to overtake the GitHub user with most repositories within 2 or 3 years."*
 
 #
