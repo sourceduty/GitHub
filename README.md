@@ -183,7 +183,11 @@ So, the development rate is approximately 21.16 commits per day over the last ye
 #
 ### Related Links
 
-[GitHub Commit Analyzer](https://github.com/sourceduty/GitHub_Commit_Analyzer)
+[Commit Summary](https://github.com/sourceduty/Commit_Summary)
+<br>
+[GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
+<br>
+[Repo Card Generator](https://github.com/sourceduty/Repo_Card_Generator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
