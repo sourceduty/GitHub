@@ -191,7 +191,7 @@ For daily updates, you can schedule this script to run every 24 hours using a cr
 
 #
 
-> Alex: *"I want to overtake the GitHub user with most repositories within 2 or 3 years."*
+> Alex: *"I want to overtake the GitHub user with most repositories within 1 or 2 years."*
 
 #
 ### Related Links
