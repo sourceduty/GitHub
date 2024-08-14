@@ -120,6 +120,11 @@ Sourceduty's versioning system is designed to provide clarity and transparency i
 
 The inclusion of symbolic codes and emojis alongside the version numbers further enriches the versioning system by offering a quick visual reference for each release. While the major number reflects significant developments or feature additions, the minor number strictly addresses bug fixes and minor refinements, ensuring that each incremental release remains backward-compatible. This structured approach to versioning helps maintain software stability and predictability, allowing users to anticipate the scope of changes with each new version while keeping the software as robust and reliable as possible.
 
+#
+#### Double Digit Versioning
+
+Sourceduty versions code using two digits (0.0) and not three digits (0.0.0). Two digits are easier and faster to use. Using three or more version digits offers more detailed version management and adds complexity in workflows.
+
 <br>
 </details>
 <details><summary>GitHub Development Rate</summary>
