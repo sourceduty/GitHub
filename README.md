@@ -1,9 +1,35 @@
 ![GitHub](https://github.com/sourceduty/GitHub/assets/123030236/e8a508ea-cbb3-4532-a924-012dabb11e07)
 
+> Usage, discussion and related information.
+
+#
+
 Sourceduty's GitHub is a treasure trove of diverse projects, ranging from practical applications like "Soil Analyzer" and "Helipad Pi" to innovative software concepts such as "Cursor Taskbar Menu." It also delves into niche areas with projects like "Chemistry Simulator," which bridges computational chemistry with creative design, and "Drugs," aiming to demystify the glamorization of street drugs in media. This array reflects a commitment to blending technology with education and creativity, highlighting Sourceduty's multifaceted approach to digital innovation and community engagement. Through these projects, Sourceduty not only showcases a broad spectrum of digital assets but also emphasizes the importance of responsible and informed technology use.
 
 #
-### Notes
+### GitHub Statistics 
+
+|    User      |  Total Number of Repos  |  Variance    |
+|--------------|-------------------------|--------------|
+|  Sourceduty  |          678            |    678       |
+| sindresorhus |         1104            |    + 426     |  
+|   Apache     |         2662            |    + 1984    |
+|   Google     |         2672            |    + 1994    |
+|    IBM       |         3289            |    + 1611    |
+| Microsoft    |         6329            |    + 5652    |
+
+<br>
+
+Alex and Sourceduty with 678 repos need to create 426 more repos to surpass sindresorhus, and 5652 more repos to surpass Microsoft. It is estimated that Sourceduty would need approximately 7.26 months, or about 7 months and 8 days, to overtake sindresorhus, assuming it continues to create repositories at the rate of 57.33 repositories per month. It is estimated that Sourceduty would need approximately 98.4 months, or about 8 years and 2 months, to overtake Microsoft, assuming it continues to create repositories at the rate of 57.33 repositories per month. Sourceduty has an additional 281 custom GPTs that have yet to have a repo created for them, so technically the total is 959, which is 145 away from sindresorhus.
+
+Sourceduty has demonstrated remarkable growth on GitHub since its inception, particularly over the past year. As of August 2024, the project has created a total of 688 public repositories. Considering that this growth occurred over a 12-month period, this equates to an average of approximately 57 repositories being created each month (688 repositories / 12 months = 57.33 repositories per month). The estimated low rate of repository creation of Sourceduty is approximately 28.67 repositories per month, and the high rate could be around 86 repositories per month.
+
+This impressive output is part of Sourceduty's broader strategy to rapidly expand its repository base, with the ambitious goal of overtaking the GitHub user with the most repositories within a short timeframe. The project has also been highly active in terms of contributions, with over 9,500 contributions recorded in the last year alone. This level of activity highlights the project's commitment to continuous development and its significant presence within the GitHub community.
+
+In addition to repository creation, Sourceduty has made over 2,100 commits across 241 repositories in 2024, further emphasizing its prolific development efforts. Despite being relatively new, Sourceduty has started to attract attention with 33 followers and 18 stars, indicating early stages of community engagement.
+
+#
+### GitHub Notes
 
 <details><summary>Normal Uses of GitHub</summary>
 <br>
@@ -45,20 +71,6 @@ Alternative Uses of GitHub
 ![Microsoft Git](https://github.com/user-attachments/assets/2405cfb3-afcc-4a3a-bab5-b4571be4342b)
 
 GitHub is a subsidiary of Microsoft, which acquired it in 2018 for $7.5 billion in Microsoft stock. Given the strategic importance of GitHub within the tech ecosystem and its integration with Microsoft's broader cloud and developer services, its worth might have increased since the acquisition. However, without public financial data, the exact figure is speculative.
-
-<br>
-</details>
-
-<details><summary>GitHub Statistics </summary>
-<br>
-
-### GitHub Statistics 
-
-Largest Repository on GitHub:
-- One of the largest known repositories on GitHub is the [Windows code base](https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/), which is approximately 300GB in size and consists of about 3.5 million files​.
-
-GitHub User with Most Repositories:
-- Among GitHub users, [Sindre Sorhus](https://github.com/sindresorhus) stands out with over 1100 repositories, alongside a significant number of followers.
 
 <br>
 </details>
@@ -191,7 +203,7 @@ For daily updates, you can schedule this script to run every 24 hours using a cr
 
 #
 
-> Alex: *"I want to overtake the GitHub user with most repositories within 1 or 2 years."*
+> Alex: *"I want to overtake Microsoft who has the most repositories on GitHub within 6 years."*
 
 #
 ### Related Links
