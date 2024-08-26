@@ -202,10 +202,6 @@ For daily updates, you can schedule this script to run every 24 hours using a cr
 </details>
 
 #
-
-> Alex: *"I want to overtake Google by creating 2000 more repos on GitHub within 5 years."*
-
-#
 ### Related Links
 
 [Commit Summary](https://github.com/sourceduty/Commit_Summary)
