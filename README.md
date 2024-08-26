@@ -11,7 +11,7 @@ Sourceduty's GitHub is a treasure trove of diverse projects, ranging from practi
 
 |    User      |  Total Number of Repos  |  Variance    |
 |--------------|-------------------------|--------------|
-|  Sourceduty  |          678            |    0         |
+|  Sourceduty  |          678            |              |
 | sindresorhus |         1104            |    + 426     |  
 |   Apache     |         2662            |    + 1984    |
 |   Google     |         2672            |    + 1994    |
