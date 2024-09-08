@@ -18,7 +18,10 @@ Sourceduty's GitHub is a treasure trove of diverse projects, ranging from practi
 |    IBM       |         3289            |    + 2611    |
 | Microsoft    |         6329            |    + 5652    |
 
-<br>
+#
+
+![Note Thief](https://github.com/user-attachments/assets/e833b7ba-311d-4944-9c10-9d261acbe8c9)
+
 
 Alex and Sourceduty with 678 repos need to create 426 more repos to surpass sindresorhus, and 5652 more repos to surpass Microsoft. It is estimated that Sourceduty would need approximately 7.26 months, or about 7 months and 8 days, to overtake sindresorhus, assuming it continues to create repositories at the rate of 57.33 repositories per month. It is estimated that Sourceduty would need approximately 98.4 months, or about 8 years and 2 months, to overtake Microsoft, assuming it continues to create repositories at the rate of 57.33 repositories per month. Sourceduty has an additional 281 custom GPTs that have yet to have a repo created for them, so technically the total is 959, which is 145 away from sindresorhus.
 
