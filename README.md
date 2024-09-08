@@ -1,6 +1,6 @@
 ![Sourceduty](https://github.com/user-attachments/assets/d92e2d91-2ab3-4d4c-9295-832a34dd1f0b)
 
-> Usage, discussion and related information.
+> Usage, discussion, notes and related information. 
 
 #
 
