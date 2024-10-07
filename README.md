@@ -7,6 +7,15 @@
 Sourceduty's GitHub is a treasure trove of diverse projects, ranging from practical applications like "Soil Analyzer" and "Helipad Pi" to innovative software concepts such as "Cursor Taskbar Menu." It also delves into niche areas with projects like "Chemistry Simulator," which bridges computational chemistry with creative design, and "Drugs," aiming to demystify the glamorization of street drugs in media. This array reflects a commitment to blending technology with education and creativity, highlighting Sourceduty's multifaceted approach to digital innovation and community engagement. Through these projects, Sourceduty not only showcases a broad spectrum of digital assets but also emphasizes the importance of responsible and informed technology use.
 
 #
+### Streaking
+
+![Streaking](https://github.com/user-attachments/assets/002483f7-3440-457c-81e3-379085246bfc)
+
+A 120-day GitHub contribution streak is quite impressive and represents a strong commitment to consistent daily activity. This is indeed a significant achievement, it is among the longest streaks recorded. Some developers might maintain streaks exceeding a year, and in rare cases, even multiple years. The dedication required to maintain such long streaks is immense and often involves a conscious effort to contribute daily without missing a single day.
+
+Achieving a 120-day streak is commendable, placing the contributor well above average in terms of regular activity. This level of consistency can positively impact project progress, help improve coding skills, and enhance visibility within the GitHub community. For many developers, maintaining any streak beyond a few months can be challenging, making this streak a notable milestone in itself.
+
+#
 ### GitHub Statistics 
 
 |    User      |  Total Number of Repos  |  Variance    |
