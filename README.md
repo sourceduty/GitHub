@@ -16,6 +16,11 @@ A 120-day GitHub contribution streak is quite impressive and represents a strong
 Achieving a 120-day streak is commendable, placing the contributor well above average in terms of regular activity. This level of consistency can positively impact project progress, help improve coding skills, and enhance visibility within the GitHub community. For many developers, maintaining any streak beyond a few months can be challenging, making this streak a notable milestone in itself.
 
 #
+### Team Members
+
+On GitHub, Two-Factor Authentication (2FA) prevents multiple remote employees from using the same account, enhancing security and enforcing accountability. Since 2FA requires both a password and a unique verification code sent to the account holder’s personal device, it discourages account sharing by making it difficult for multiple users to access a single account. However, this setup can hinder innovative teams; when team members need shared access, relying on one account slows down workflows and creates bottlenecks, as only the person with the 2FA device can log in. By using individual accounts with appropriate permissions, teams can ensure secure access while maintaining the flexibility and speed needed for efficient collaboration on projects, without unnecessary delays caused by shared account limitations.
+
+#
 ### GitHub Statistics 
 
 |    User      |  Total Number of Repos  |  Variance    |
