@@ -17,32 +17,31 @@ The 145-day GitHub contribution streak is quite impressive and represents a stro
 #
 ### Team Members
 
+![Note Thief](https://github.com/user-attachments/assets/e833b7ba-311d-4944-9c10-9d261acbe8c9)
+
 On GitHub, Two-Factor Authentication (2FA) prevents multiple remote employees from using the same account, enhancing security and enforcing accountability. Since 2FA requires both a password and a unique verification code sent to the account holder’s personal device, it discourages account sharing by making it difficult for multiple users to access a single account. However, this setup can hinder innovative teams; when team members need shared access, relying on one account slows down workflows and creates bottlenecks, as only the person with the 2FA device can log in. By using individual accounts with appropriate permissions, teams can ensure secure access while maintaining the flexibility and speed needed for efficient collaboration on projects, without unnecessary delays caused by shared account limitations.
 
 #
 ### GitHub Statistics 
 
-|    User      |  Total Number of Repos  |  Variance    |
-|--------------|-------------------------|--------------|
-|  Sourceduty  |          678            |              |
-| sindresorhus |         1104            |    + 426     |  
-|   Apache     |         2662            |    + 1984    |
-|   Google     |         2672            |    + 1994    |
-|    IBM       |         3289            |    + 2611    |
-| Microsoft    |         6329            |    + 5652    |
+|    User      |  Total Number of Repos  |  Variance    | Percentage of GitHub Repos |
+|--------------|-------------------------|--------------|----------------------------|
+|  Sourceduty  |          914            |              |            1.3%           |
+| sindresorhus |         1104            |    + 190     |            1.5%           |  
+|   Apache     |         2662            |    + 1748    |            3.6%           |
+|   Google     |         2672            |    + 1758    |            3.6%           |
+|    IBM       |         3289            |    + 2375    |            4.5%           |
+| Microsoft    |         6329            |    + 5415    |            8.7%           |
+
+(Percentages are calculated based on a total of approximately 72,000 public repositories on GitHub as of the most recent estimate.)
 
 #
 
-![Note Thief](https://github.com/user-attachments/assets/e833b7ba-311d-4944-9c10-9d261acbe8c9)
+As of November 2024, Sourceduty has expanded its custom GPT collection to 786, organized into 20 distinct categories. This reflects a significant investment in building versatile and accessible AI tools. The GPTs cater to various applications, supporting Sourceduty's aim to innovate within conversational AI and provide resources for diverse development needs. With a growing collection, Sourceduty stands out as a contributor to the field of AI on GitHub, offering extensive resources to the open-source community.
 
+Sourceduty also has a strong GitHub presence with 914 public repositories, developed at an estimated rate of 57 repositories per month. This growth underscores a commitment to repository expansion, as Sourceduty works to become one of GitHub's most prolific contributors. Its recent repository additions span multiple disciplines, including data science, software engineering, and AI, emphasizing its role in supporting a wide range of open-source projects.
 
-Alex and Sourceduty with 678 repos need to create 426 more repos to surpass sindresorhus, and 5652 more repos to surpass Microsoft. It is estimated that Sourceduty would need approximately 7.26 months, or about 7 months and 8 days, to overtake sindresorhus, assuming it continues to create repositories at the rate of 57.33 repositories per month. It is estimated that Sourceduty would need approximately 98.4 months, or about 8 years and 2 months, to overtake Microsoft, assuming it continues to create repositories at the rate of 57.33 repositories per month. Sourceduty has an additional 281 custom GPTs that have yet to have a repo created for them, so technically the total is 959, which is 145 away from sindresorhus.
-
-Sourceduty has demonstrated remarkable growth on GitHub since its inception, particularly over the past year. As of August 2024, the project has created a total of 688 public repositories. Considering that this growth occurred over a 12-month period, this equates to an average of approximately 57 repositories being created each month (688 repositories / 12 months = 57.33 repositories per month). The estimated low rate of repository creation of Sourceduty is approximately 28.67 repositories per month, and the high rate could be around 86 repositories per month.
-
-This impressive output is part of Sourceduty's broader strategy to rapidly expand its repository base, with the ambitious goal of overtaking the GitHub user with the most repositories within a short timeframe. The project has also been highly active in terms of contributions, with over 9,500 contributions recorded in the last year alone. This level of activity highlights the project's commitment to continuous development and its significant presence within the GitHub community.
-
-In addition to repository creation, Sourceduty has made over 2,100 commits across 241 repositories in 2024, further emphasizing its prolific development efforts. Despite being relatively new, Sourceduty has started to attract attention with 33 followers and 18 stars, indicating early stages of community engagement.
+In addition to repository development, Sourceduty has shown a high level of community engagement, logging over 13,541 contributions in the past year. With increasing recognition, 50 followers, and 19 stars, the project’s active GitHub involvement positions it as a key player in open-source contributions. This commitment to frequent updates, resource-sharing, and collaborative work is positioning Sourceduty for ongoing growth and influence within the GitHub ecosystem​
 
 #
 ### Development Backlog
