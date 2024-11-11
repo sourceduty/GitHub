@@ -25,24 +25,24 @@ On GitHub, Two-Factor Authentication (2FA) prevents multiple remote employees fr
 #
 ### GitHub Statistics 
 
-|    User      |  Total Number of Repos  |  Variance    | Percentage of GitHub Repos |
-|--------------|-------------------------|--------------|----------------------------|
-|  Sourceduty  |          914            |              |            1.3%           |
-| sindresorhus |         1104            |    + 190     |            1.5%           |  
-|   Apache     |         2662            |    + 1748    |            3.6%           |
-|   Google     |         2672            |    + 1758    |            3.6%           |
-|    IBM       |         3289            |    + 2375    |            4.5%           |
-| Microsoft    |         6329            |    + 5415    |            8.7%           |
+| User          | Total Number of Repos | Variance  | Percentage of GitHub Repos |
+|---------------|-----------------------|-----------|----------------------------|
+| Sourceduty    | 960                   | + 48      | 1.3%                       |
+| sindresorhus  | 1104                  | + 190     | 1.5%                       |
+| Apache        | 2662                  | + 1676    | 3.6%                       |
+| Google        | 2672                  | + 1686    | 3.6%                       |
+| IBM           | 3289                  | + 2303    | 4.5%                       |
+| Microsoft     | 6329                  | + 5343    | 8.7%                       |
 
 (Percentages are calculated based on a total of approximately 72,000 public repositories on GitHub as of the most recent estimate.)
 
 #
 
-As of November 2024, Sourceduty has expanded its custom GPT collection to 786, organized into 20 distinct categories. This reflects a significant investment in building versatile and accessible AI tools. The GPTs cater to various applications, supporting Sourceduty's aim to innovate within conversational AI and provide resources for diverse development needs. With a growing collection, Sourceduty stands out as a contributor to the field of AI on GitHub, offering extensive resources to the open-source community.
+As of November 2024, Sourceduty has solidified its standing as a significant contributor to open-source development and AI innovation. The project has amassed an impressive 796 custom GPTs spread across 20 distinct categories, reflecting a deep commitment to building versatile and accessible AI tools. These GPTs are tailored to various applications, supporting Sourceduty’s mission to advance conversational AI and provide resources for a wide range of development needs.
 
-Sourceduty also has a strong GitHub presence with 914 public repositories, developed at an estimated rate of 57 repositories per month. This growth underscores a commitment to repository expansion, as Sourceduty works to become one of GitHub's most prolific contributors. Its recent repository additions span multiple disciplines, including data science, software engineering, and AI, emphasizing its role in supporting a wide range of open-source projects.
+Sourceduty’s GitHub activity further underscores its dedication to the open-source community. With 960 public repositories—growing at an estimated 57 repositories per month—Sourceduty remains a prolific contributor. Its recent repository additions span diverse fields such as data science, AI, and software engineering, emphasizing its role as a resource hub for developers and researchers alike.
 
-In addition to repository development, Sourceduty has shown a high level of community engagement, logging over 13,541 contributions in the past year. With increasing recognition, 50 followers, and 19 stars, the project’s active GitHub involvement positions it as a key player in open-source contributions. This commitment to frequent updates, resource-sharing, and collaborative work is positioning Sourceduty for ongoing growth and influence within the GitHub ecosystem​
+In the past year alone, Sourceduty has achieved 13.29k contributions, with a current total of 14,656 contributions since joining GitHub in 2023. This steady activity is complemented by an active streak of 155 consecutive days, which also marks the longest streak of continuous contributions. With this level of engagement, Sourceduty is a key player in fostering collaboration and innovation in the GitHub ecosystem.
 
 #
 ### Development Backlog
