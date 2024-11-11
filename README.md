@@ -27,7 +27,7 @@ On GitHub, Two-Factor Authentication (2FA) prevents multiple remote employees fr
 
 | User          | Total Number of Repos | Variance  | Percentage of GitHub Repos |
 |---------------|-----------------------|-----------|----------------------------|
-| Sourceduty    | 960                   | + 48      | 1.3%                       |
+| Sourceduty    | 960                   |           | 1.3%                       |
 | sindresorhus  | 1104                  | + 190     | 1.5%                       |
 | Apache        | 2662                  | + 1676    | 3.6%                       |
 | Google        | 2672                  | + 1686    | 3.6%                       |
