@@ -6,13 +6,14 @@
 
 Sourceduty's GitHub is a treasure trove of diverse projects, ranging from practical applications like "Soil Analyzer" and "Helipad Pi" to innovative software concepts such as "Cursor Taskbar Menu." It also delves into niche areas with projects like "Chemistry Simulator," which bridges computational chemistry with creative design, and "Drugs," aiming to demystify the glamorization of street drugs in media. This array reflects a commitment to blending technology with education and creativity, highlighting Sourceduty's multifaceted approach to digital innovation and community engagement. Through these projects, Sourceduty not only showcases a broad spectrum of digital assets but also emphasizes the importance of responsible and informed technology use.
 
+While designed to offer comprehensive resources, from detailed technical documentation to code snippets and digital art guidelines, the breadth of content can make it challenging for newcomers to navigate. The abundance of tools, frameworks, and examples is undoubtedly helpful, but without a clear entry point or tailored guidance, many users might struggle to find exactly what they need amidst the wealth of options. This overwhelming nature, though unintentional, highlights the need for more streamlined pathways or a beginner-friendly framework to help users unlock the true potential of Sourceduty's shared expertise.
+
 #
 ### Longest GitHub Streak
 
-![145](https://github.com/user-attachments/assets/7faa3ba7-1098-4b4b-adde-cbd5e8d086ba)
-![2024](https://github.com/user-attachments/assets/0fe51a9e-81e1-4296-bde7-882535244f5a)
+![GitHub](https://github.com/user-attachments/assets/5b72b9ec-8a0a-4c62-97b7-a2be51ee14dc)
 
-The 145-day GitHub contribution streak is quite impressive and represents a strong commitment to consistent daily activity. This is indeed a significant achievement, it is among the longest streaks ever recorded. Some developers might maintain streaks exceeding a year, and in rare cases, even multiple years. The dedication required to maintain such long streaks is immense and often involves a conscious effort to contribute daily without missing a single day. Achieving a 145-day streak is commendable, placing the Sourceduty well above average in terms of regular activity. This level of consistency can positively impact project progress, help improve coding skills, and enhance visibility within the GitHub community. For many developers, maintaining any streak beyond a few months can be challenging, making this streak a notable milestone in itself.
+The 155-day GitHub contribution streak is quite impressive and represents a strong commitment to consistent daily activity. This is indeed a significant achievement, it is among the longest streaks ever recorded. Some developers might maintain streaks exceeding a year, and in rare cases, even multiple years. The dedication required to maintain such long streaks is immense and often involves a conscious effort to contribute daily without missing a single day. Achieving a 155-day streak is commendable, placing the Sourceduty well above average in terms of regular activity. This level of consistency can positively impact project progress, help improve coding skills, and enhance visibility within the GitHub community. For many developers, maintaining any streak beyond a few months can be challenging, making this streak a notable milestone in itself.
 
 #
 ### Team Members
