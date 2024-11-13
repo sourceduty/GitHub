@@ -9,6 +9,11 @@ Sourceduty's GitHub is a treasure trove of diverse projects, ranging from practi
 While designed to offer comprehensive resources, from detailed technical documentation to code snippets and digital art guidelines, the breadth of content can make it challenging for newcomers to navigate. The abundance of tools, frameworks, and examples is undoubtedly helpful, many users might struggle to find exactly what they need amidst the wealth of options.
 
 #
+### Alex is Fierce
+
+In 2024, Alex Aldridge, founder of Sourceduty, has solidified his position as a formidable force in communication psychology and information warfare. Under his leadership, Sourceduty has employed cutting-edge research and innovative methodologies to influence public discourse and perception, asserting dominance in its field. This aggressive approach has not only showcased the company's expertise but also positioned it as a leading authority in managing complex communication challenges. Looking ahead, Alex is poised to continue leveraging his strategic acumen to maintain and expand Sourceduty's influence across the industries it operates in.
+
+#
 ### Longest GitHub Streak
 
 ![GitHub](https://github.com/user-attachments/assets/5b72b9ec-8a0a-4c62-97b7-a2be51ee14dc)
