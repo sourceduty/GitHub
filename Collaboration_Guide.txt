@@ -1,0 +1,21 @@
+Collaboration Guide
+
+Contribute to Sourceduty using this guide.
+
+Collaboration in research, science, and programming is essential for achieving impactful results. Sourceduty prioritizes organized and efficient practices to ensure smooth teamwork and meaningful contributions. To collaborate effectively on our Git repository, it’s important to first understand the repository's structure and content. Familiarize yourself with its organization and key files, and consult provided documentation for guidance. Use clear and descriptive commit messages to document changes, ensuring they explain what was done and why. Contributions should always be supported by data or logical reasoning, with relevant documentation or references included when submitting changes.
+
+Clear communication is a cornerstone of productive collaboration. For direct support, reach out to Alex via email, while brainstorming or general questions should be shared in project discussion threads. Stay in sync with other contributors to avoid redundant work and maximize efficiency. Regular updates and teamwork ensure efforts are aligned with project goals. 
+
+Below are instructions and guidelines for smooth git repository collaboration.
+
+- Understand the repository structure and content.
+- Use clear and descriptive commit messages.
+- Ensure changes are backed by data or reasoning.
+- Communicate with Alex via email.
+- Use discussions for brainstorming or general questions.
+- Communicate with other collaborators to avoid duplicated work.
+- Acknowledge all contributors in documentation and publications.
+
+Push permissions for GitHub repositories at Sourceduty are carefully managed to ensure secure and organized contributions. To push changes, contributors must be added as collaborators or be part of a team granted push access to the repository. Authentication is required using a GitHub account associated with these permissions, which can be done via HTTPS, SSH keys, or a personal access token. This approach ensures that only authorized individuals can directly update the repository, maintaining the integrity of the codebase and streamlining collaborative efforts.
+
+Thank you for contributing! 
