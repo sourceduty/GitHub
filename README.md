@@ -20,9 +20,9 @@ Contribute to Sourceduty repos using [this](https://github.com/user-attachments/
 #
 ### Longest GitHub Streak
 
-![GitHub](https://github.com/user-attachments/assets/5b72b9ec-8a0a-4c62-97b7-a2be51ee14dc)
+![Stats](https://github.com/user-attachments/assets/f299b7eb-437f-45cc-8f9b-d89d74b25221)
 
-The 155-day GitHub contribution streak is quite impressive and represents a strong commitment to consistent daily activity. This is indeed a significant achievement, it is among the longest streaks ever recorded. Some developers might maintain streaks exceeding a year, and in rare cases, even multiple years. The dedication required to maintain such long streaks is immense and often involves a conscious effort to contribute daily without missing a single day. Achieving a 155-day streak is commendable, placing the Sourceduty well above average in terms of regular activity. This level of consistency can positively impact project progress, help improve coding skills, and enhance visibility within the GitHub community. For many developers, maintaining any streak beyond a few months can be challenging, making this streak a notable milestone in itself.
+The 167-day GitHub contribution streak is quite impressive and represents a strong commitment to consistent daily activity. This is indeed a significant achievement, it is among the longest streaks ever recorded. Some developers might maintain streaks exceeding a year, and in rare cases, even multiple years. The dedication required to maintain such long streaks is immense and often involves a conscious effort to contribute daily without missing a single day. Achieving a 167-day streak is commendable, placing the Sourceduty well above average in terms of regular activity. This level of consistency can positively impact project progress, help improve coding skills, and enhance visibility within the GitHub community. For many developers, maintaining any streak beyond a few months can be challenging, making this streak a notable milestone in itself.
 
 #
 ### Team Members
