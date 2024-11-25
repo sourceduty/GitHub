@@ -36,22 +36,20 @@ On GitHub, Two-Factor Authentication (2FA) prevents multiple remote employees fr
 
 | User          | Total Number of Repos | Variance  | Percentage of GitHub Repos |
 |---------------|-----------------------|-----------|----------------------------|
-| Sourceduty    | 960                   |           | 1.3%                       |
-| sindresorhus  | 1104                  | + 144     | 1.5%                       |
-| Apache        | 2662                  | + 1558    | 3.6%                       |
-| Google        | 2672                  | + 1568    | 3.6%                       |
-| IBM           | 3289                  | + 2185    | 4.5%                       |
-| Microsoft     | 6329                  | + 5225    | 8.7%                       |
+| Sourceduty    | 992                   |           | 1.4%                       |
+| sindresorhus  | 1,104                 | +144      | 1.5%                       |
+| Apache        | 2,662                 | +1,558    | 3.6%                       |
+| Google        | 2,672                 | +1,568    | 3.6%                       |
+| IBM           | 3,289                 | +2,185    | 4.5%                       |
+| Microsoft     | 6,329                 | +5,225    | 8.7%                       |
 
 (Percentages are calculated based on a total of approximately 72,000 public repositories on GitHub as of the most recent estimate.)
 
 #
 
-As of November 2024, Sourceduty has solidified its standing as a significant contributor to open-source development and AI innovation. The project has amassed an impressive 796 custom GPTs spread across 20 distinct categories, reflecting a deep commitment to building versatile and accessible AI tools. These GPTs are tailored to various applications, supporting Sourceduty’s mission to advance conversational AI and provide resources for a wide range of development needs.
+Sourceduty has recently increased its number of public repositories to 992, reflecting a growth of 32 repositories. This expansion underscores Sourceduty's ongoing commitment to contributing to the open-source community.
 
-Sourceduty’s GitHub activity further underscores its dedication to the open-source community. With 960 public repositories—growing at an estimated 57 repositories per month—Sourceduty remains a prolific contributor. Its recent repository additions span diverse fields such as data science, AI, and software engineering, emphasizing its role as a resource hub for developers and researchers alike.
-
-In the past year alone, Sourceduty has achieved 13.29k contributions, with a current total of 14,656 contributions since joining GitHub in 2023. This steady activity is complemented by an active streak of 155 consecutive days, which also marks the longest streak of continuous contributions. With this level of engagement, Sourceduty is a key player in fostering collaboration and innovation in the GitHub ecosystem.
+Sindre Sorhus, known by the GitHub username 'sindresorhus', has a total of 1,104 public repositories, marking an increase of 144 repositories. Sindre is recognized for his extensive contributions to open-source projects, particularly in the realms of Swift and JavaScript. The Apache Software Foundation (Apache) has 2,662 public repositories, an increase of 1,558. Apache hosts a wide array of open-source projects, many of which are released under the Apache License. Google's GitHub organization comprises 2,672 public repositories, reflecting an increase of 1,568. Google actively contributes to numerous open-source projects across various domains. IBM's GitHub presence includes 3,289 public repositories, an increase of 2,185. IBM has a long-standing commitment to open-source development, with a focus on Swift and JavaScript, and has contributed significantly to various projects. Microsoft's GitHub organization has 6,329 public repositories, an increase of 5,225. Microsoft is a major contributor to open-source projects, with a diverse range of repositories spanning multiple technologies.
 
 #
 ### Development Backlog
