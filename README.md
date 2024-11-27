@@ -71,6 +71,9 @@ Exploring different platforms enables you to diversify the content and nature of
 The `</>` symbol is commonly used by programmers to represent tags in markup languages like HTML and XML, where it encloses elements or attributes in the code. Additionally, it is widely recognized in graphic design as a symbol representing code or technology, often used in logos or icons to convey a tech-oriented theme. The `>>>` symbol is specific to Python programming, where it is often seen in interactive Python shells or REPL (Read-Eval-Print Loop) environments. This symbol indicates the readiness of the interpreter to accept user input, signaling that the environment is awaiting a command or code execution.
 
 #
+![Stars](https://github.com/user-attachments/assets/402f4355-ed26-4104-867d-f6ab4710ae11)
+
+#
 ### GitHub Notes
 
 <details><summary>Normal Uses of GitHub</summary>
