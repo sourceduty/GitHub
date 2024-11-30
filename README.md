@@ -18,11 +18,11 @@ Collaboration in Sourceduty’s GitHub repositories is designed to be streamline
 Contribute to Sourceduty repos using [this](https://github.com/user-attachments/files/17784680/collaboration.txt) guide.
 
 #
-### Longest GitHub Streak
+### Longest GitHub Streak of 174 Days
 
-![Stats](https://github.com/user-attachments/assets/f299b7eb-437f-45cc-8f9b-d89d74b25221)
+![2024](https://github.com/user-attachments/assets/bae0f23e-d73b-4b85-a7f0-fa9782436bc2)
 
-The 168-day GitHub contribution streak is quite impressive and represents a strong commitment to consistent daily activity. This is indeed a significant achievement, it is among the longest streaks ever recorded. Some developers might maintain streaks exceeding a year, and in rare cases, even multiple years. The dedication required to maintain such long streaks is immense and often involves a conscious effort to contribute daily without missing a single day. Achieving a 168-day streak is commendable, placing the Sourceduty well above average in terms of regular activity. This level of consistency can positively impact project progress, help improve coding skills, and enhance visibility within the GitHub community. For many developers, maintaining any streak beyond a few months can be challenging, making this streak a notable milestone in itself.
+The 174-day GitHub contribution streak is quite impressive and represents a strong commitment to consistent daily activity. This is indeed a significant achievement, it is among the longest streaks ever recorded. Some developers might maintain streaks exceeding a year, and in rare cases, even multiple years. The dedication required to maintain such long streaks is immense and often involves a conscious effort to contribute daily without missing a single day. Achieving a 168-day streak is commendable, placing the Sourceduty well above average in terms of regular activity. This level of consistency can positively impact project progress, help improve coding skills, and enhance visibility within the GitHub community. For many developers, maintaining any streak beyond a few months can be challenging, making this streak a notable milestone in itself.
 
 #
 ### Team Members
@@ -36,12 +36,12 @@ On GitHub, Two-Factor Authentication (2FA) prevents multiple remote employees fr
 
 | User          | Total Number of Repos | Variance  | Percentage of GitHub Repos |
 |---------------|-----------------------|-----------|----------------------------|
-| Sourceduty    | 992                   |           | 1.4%                       |
-| sindresorhus  | 1,104                 | +144      | 1.5%                       |
-| Apache        | 2,662                 | +1,558    | 3.6%                       |
-| Google        | 2,672                 | +1,568    | 3.6%                       |
-| IBM           | 3,289                 | +2,185    | 4.5%                       |
-| Microsoft     | 6,329                 | +5,225    | 8.7%                       |
+| Sourceduty    | 1029                  |           | 1.43%                      |
+| sindresorhus  | 1104                  | +75       | 1.53%                      |
+| Apache        | 2662                  | +1633     | 3.70%                      |
+| Google        | 2672                  | +1643     | 3.71%                      |
+| IBM           | 3289                  | +2260     | 4.57%                      |
+| Microsoft     | 6329                  | +5300     | 8.79%                      |
 
 (Percentages are calculated based on a total of approximately 72,000 public repositories on GitHub as of the most recent estimate.)
 
